@@ -28,8 +28,7 @@ A curiosidade em entender "o que há por trás dos dados" me levou à Engenharia
 Aqui você encontrará projetos que representam minha evolução e aprendizado contínuo. Em breve:
 
 - 📊 Dashboard interativo com **Streamlit + Power BI**
-- 📦 Pipeline de ingestão de dados simulada com **Python**
-- 🔗 Integração com APIs para coleta de dados
+Materiais de estudo da pós graduação
 
 ---
 

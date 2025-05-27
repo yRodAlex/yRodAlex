@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rodrigo Alex!
 
-🎯 **Engenheiro de Dados em formação** com experiência sólida em **suporte técnico**, APIs e infraestrutura de TI. Atualmente cursando **MBA em Engenharia de Dados na Universidade Mackenzie** e ampliando meus conhecimentos em **Python, Streamlit, SQL e Big Data**.
+🎯 **Engenheiro de Dados em formação** com experiência sólida em **suporte técnico**, e infraestrutura de TI. Atualmente cursando **MBA em Engenharia de Dados na Universidade Mackenzie** e ampliando meus conhecimentos em **Python, Streamlit, SQL e Big Data**.
 
 ---
 

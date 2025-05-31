@@ -34,7 +34,7 @@ Materiais de estudo da pós graduação
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo-alex-nasc-blue?logo=linkedin)](www.linkedin.com/in/rodrigo-alex-nasc)  
+www.linkedin.com/in/rodrigo-alex-nasc
 ✉️ rodrigoalex_1995@hotmail.com
 
 ---
